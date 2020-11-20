@@ -1,0 +1,49 @@
+PAGE TITLE : Thailand | The Land of Smiles
+H1 TEXT  : Welcome To Thailand
+LOGO : https://d1k2oi80tv211b.cloudfront.net/asia/images/asiatours_logo.svg
+H2 TEXT : Discover Thailand
+BANGKOK IMAGE PATH : ./assets/bangkok.jpg
+
+PARAGRAPH :  Thailand, “Land of Smile”, is regarded as one of the most attractive
+      destinations in Southeast Asia. The country is packed with countless
+      amazing things to explore from myriad majestic Palaces and Buddhist
+      temples or ancient historical sites to the buzzing modern atmosphere of
+      shopping malls, markets, beaches, streets, etc. Also, the charm of nature,
+      people, and culture in Thailand is an alluring beauty that could satisfy
+      any travel buffs at any age. With a developed tourism industry, Thailand
+      becomes a prominent tourist hub in the region with a large offer of
+      services at various prices. Visiting the country and encountering the Thai
+      ambience, it is already the best thing you’ve ever had.
+
+
+      Thailand offers a large offer of services and packages that can create a
+      wonderful Asian trip for any demands. The list for tailored tours in
+      Thailand below follows various styles so that you can refer to many
+      aspects before deciding which one to go to. From popular tourist sites for
+      mass tourism to secluded hideaways for leisure retreats, all highlights of
+      Thailand have been meticulously arranged in our tours to bring to you the
+      most memorable moments in this country. With many years of involvement in
+      creating a tailor-made journey for our amazing customers, our experts
+      always focus on the quality of Thailand Tours to bring the unforgettable
+      experience and highlights of each destination to travellers.
+
+H3 TEXT : Most Romantic Places to Visit in Thailand
+
+MOST ROMANTIC PLACES TO VISIT  IN THAILAND: 
+
+Koh Samui
+Bangkok
+Chiang Mai
+Similan Islands
+Kanchanaburi
+
+TOUR PACKAGES : 
+
+Name	Type	Accomodation	Transport	Team	Meals	Services	Price
+Thailand HighLights	Private & Tailored Tour	17 Nights	Car,Boating,Flight	Private Guide, Driver , Trip Managing Expert	18 Breakfast, 6 Lunches , 1 Dinner	Entrance fees ,excursions , visa ,water	FROM $2225 PP
+Beach Break Vacation	Private & Tailored Tour	9 Nights	Car,Boating,Flight	Private Guide, Driver , Trip Managing Expert	9 Breakfast, 5 Lunches	Entrance fees ,excursions , visa ,water	FROM $1113 PP
+
+
+EMAIL : experts@asiatours.com
+TEL : (+84) 916 952 668
+
